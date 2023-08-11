@@ -1,11 +1,11 @@
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://thesuburbansoapbox.com/best-vanilla-creme-brulee-recipe/";
+   let authorPhoto = "https://thesuburbansoapbox.com/wp-content/uploads/2021/02/nFMviV_w-e1614300721197-scaled-340x485.jpeg";
+   let authorName = "Kellie";
 
    return (
       <div>
-         <img src={authorPhoto} alt = "" style={{objectFit: "contain", borderRadius: "50%"}} />
+         <img src={authorPhoto} alt = "Kellie"  />
          <div>
             <h3>{authorName}</h3>
             <a href={authorLink}></a> 
@@ -15,7 +15,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["heavy cream", "vanilla", " sugar", "egg yolks", "superfine sugar"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -47,7 +47,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://thesuburbansoapbox.com/wp-content/uploads/2022/11/Creme-Brulee-6.jpg" alt="photo of creme brulee" className="imageUpdates" height="500px" width="300px"/>
    );
 }
 

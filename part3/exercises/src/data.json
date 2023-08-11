@@ -1,0 +1,24 @@
+{"projects":
+    [{
+    "title": "Legends of Terra",
+    "mainCharacter": "Elnora Xi",
+    "premise": "A world that has forgot its history must deal with new magic- good and bad.",
+    "genre": "Fantasy",
+    "image": "https://cdna.artstation.com/p/assets/images/images/030/710/278/large/tamas-bagi-flame-arts.jpg?1601412900"
+},
+ {
+    "title": "Working",
+    "mainCharacter": "Zera",
+    "premise": "A world where weather is stagnated into zones, and only the elites get to live in the perfect climate",
+    "genre": "Dystopia/Fantasy",
+    "image": "https://www.shutterstock.com/shutterstock/videos/1102745197/thumb/1.jpg?ip=x480"
+ },
+
+ {
+    "title": "Chicago Street Magic",
+    "mainCharacter": "TBD",
+    "premise": "A young boy growing up in Chicago discovers an unerground world full of magic and graffiti",
+    "genre": "Young Adult Lit/Fantasy",
+    "image": "https://media.istockphoto.com/id/134116671/photo/graffiti-covered-alley-in-melbourne-australia.jpg?s=612x612&w=0&k=20&c=Xpkv9sIhvfWIp3oq082qYscpHtU-_9px98xPuT9IFYw="
+    }]
+}
