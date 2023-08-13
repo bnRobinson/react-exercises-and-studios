@@ -1,9 +1,9 @@
 import './styles.css';
 
 function Button() {
-   let onLearnMore= function(){
+   function onLearnMore(){
       alert("Waves Crashing")
-   }
+   };
    return ( 
          <button onClick={onLearnMore}>
             Learn More
